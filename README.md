@@ -27,7 +27,7 @@
 
 ## 🎵 What is FilmU Music?
 
-**FilmU Music** is a modern open-source music streaming web app built for users who want:
+**FilmU Music** is a modern open-source music streaming web app designed for:
 
 - 🎧 distraction-free listening  
 - 🔒 privacy-friendly experience  
@@ -35,6 +35,10 @@
 - ⚡ fast & lightweight performance  
 
 It provides a clean minimalist interface focused purely on music.
+
+> ⚡ FilmU Music is based on the open-source project  
+> **[Monochrome](https://github.com/monochrome-music/monochrome)**.  
+> Huge thanks to the Monochrome team for their amazing work ❤️
 
 ---
 

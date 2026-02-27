@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://filmu.in">
-    <img src="https://github.com/monochrome-music/monochrome/blob/main/public/assets/512.png?raw=true" alt="FilmU Music Logo" width="150px">
+    <img src="https://github.com/monochrome-music/monochrome/blob/main/public/assets/512.png?raw=true" width="150px">
   </a>
 </p>
 
 <h1 align="center">FilmU Music</h1>
 
 <p align="center">
-  <strong>An open-source, privacy-focused, ad-free music streaming experience.</strong>
+  <strong>Music. No ads. No spying. No nonsense.</strong>
 </p>
 
 <p align="center">
@@ -27,47 +27,63 @@
 
 ## 🎵 What is FilmU Music?
 
-**FilmU Music** is a modern open-source music streaming web app designed for:
+Alright, listen up.
 
-- 🎧 distraction-free listening  
-- 🔒 privacy-friendly experience  
-- 🚫 zero ads  
-- ⚡ fast & lightweight performance  
+**FilmU Music** is for people who want music — not ads screaming like unpaid rent collectors.
 
-It provides a clean minimalist interface focused purely on music.
+No tracking nonsense.  
+No “premium ultra mega pro max” scams.  
+No interruptions killing your vibe.
 
-> ⚡ FilmU Music is based on the open-source project  
-> **[Monochrome](https://github.com/monochrome-music/monochrome)**.  
-> Huge thanks to the Monochrome team for their amazing work ❤️
+Just pure music. 🎧
+
+If Spotify feels bloated…  
+and YouTube Music feels like algorithm chaos…  
+welcome home.
+
+- 🚫 zero ads ruining your mood  
+- 🔒 privacy respected (because stalking is creepy)  
+- ⚡ fast, clean & distraction-free  
+- 🎧 pure music energy  
+
+Search. Press play. Exist peacefully.
+
+---
+
+> ⚡ Built on top of the open-source project  
+> **[Monochrome](https://github.com/monochrome-music/monochrome)**  
+> aka the legends who did the hard work while we made it look cooler.
+
+Huge respect to the Monochrome devs ❤️
 
 ---
 
 ## ✨ Features
 
 ### 🎧 Audio Experience
-- High quality audio streaming  
-- Support for local music playback  
-- Smart caching for faster performance  
+- High quality streaming
+- Support for local music playback
+- Smart caching for faster performance
 
 ### 🎨 Interface
-- Dark minimalist UI  
-- Responsive & fast design  
-- Progressive Web App (PWA) support  
-- System media controls integration  
+- Dark minimalist UI (because your eyes deserve peace)
+- Fast & responsive design
+- Progressive Web App (install like an app)
+- System media controls support
 
 ### 📚 Library & Organization
-- Recently played history  
-- Favorites & personal library  
-- Queue management & shuffle modes  
-- Playlist support  
+- Recently played history
+- Favorites & personal library
+- Queue & shuffle controls
+- Playlist support
 
 ### 📝 Lyrics & Metadata
-- Lyrics support with karaoke mode  
-- Auto metadata support  
+- Lyrics support with karaoke mode
+- Auto metadata embedding
 
-### ⚡ Power Features
-- Keyboard shortcuts  
-- Fast search & playback  
+### ⚡ Power User Features
+- Keyboard shortcuts
+- Fast search & instant playback
 
 ---
 

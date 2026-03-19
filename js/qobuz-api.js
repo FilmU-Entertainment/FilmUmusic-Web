@@ -1,5 +1,5 @@
 // js/qobuz-api.js
-// Qobuz API integration for Monochrome Music
+// Qobuz API integration for FilmUmusic web
 
 const QOBUZ_API_BASE = 'https://qobuz.squid.wtf/api';
 
